@@ -1,4 +1,4 @@
-# - 👋 Hey!there..
+#  👋 Hey!there..
 I’m PRATIKSHA RAWAT
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning front-end technologies
