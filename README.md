@@ -42,6 +42,11 @@
 > Stack: `React` | `MongoDB` | `ShadCN UI` | `Express.js`
 
 ---
+### 🏆 Badge for PR
+
+![PR Badge](https://img.shields.io/badge/PR-Contributor-success?style=flat-square&logo=github)
+
+Contributed to open-source by submitting and merging PRs to repositories like `project-name`. Actively participating in collaborative development.
 
 
 
