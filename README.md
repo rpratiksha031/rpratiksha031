@@ -100,7 +100,7 @@ const pratiksha = {
 ### ✍️ [Blogger - Content Management Platform](https://blogger-ivory-ten.vercel.app)
   
 [![Blogger](https://img.shields.io/badge/🚀%20Live%20Demo-Blogger-58a6ff?style=for-the-badge)](https://blogger-ivory-ten.vercel.app)
-[![GitHub](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pratiksha-rawat/blogger)
+[![GitHub](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rpratiksha031/blogger)
 
 </div>
 
@@ -164,7 +164,7 @@ const pratiksha = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-rawat-363109253/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-theta-rust-15.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratiksharawat@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpratiksha031@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rpratiksha031)
 
 </div>
