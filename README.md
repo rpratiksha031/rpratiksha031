@@ -91,7 +91,7 @@ const pratiksha = {
 > - 🎯 Adaptive assessment system
 > - 💬 Interactive AI tutor
 > 
-> **🛠️ Tech Stack:** `Next.js` • `OpenAI API` • `Tailwind CSS` • `Convex DB` • `TypeScript`
+> **🛠️ Tech Stack:** `Next.js` • `OpenAI API` • `Tailwind CSS` • `Convex DB` • `Javascript`
 
 ---
 
@@ -115,7 +115,7 @@ const pratiksha = {
 > - 📈 Real-time analytics
 > - 📱 Responsive design
 > 
-> **🛠️ Tech Stack:** `React` • `MongoDB` • `Express.js` • `ShadCN UI` • `JWT Authentication`
+> **🛠️ Tech Stack:** `React` • `MongoDB` • `Express.js` • `ShadCN UI` • `Next.js`
 
 ---
 
