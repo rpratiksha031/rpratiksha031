@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratiksha-rawat&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pratiksha-rawat?label=Followers&style=flat-square&color=58a6ff" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=rpratiksha031&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rpratiksha031?label=Followers&style=flat-square&color=58a6ff" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58a6ff?style=flat-square" />
 </p>
 
@@ -77,7 +77,7 @@ const pratiksha = {
 ### 🎓 [VidyaVani - AI Educational Assistant](https://vidya-vani.vercel.app)
   
 [![VidyaVani](https://img.shields.io/badge/🚀%20Live%20Demo-VidyaVani-58a6ff?style=for-the-badge)](https://vidya-vani.vercel.app)
-[![GitHub](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pratiksha-rawat/vidya-vani)
+[![GitHub](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rpratiksha031/vidya-vani)
 
 </div>
 
