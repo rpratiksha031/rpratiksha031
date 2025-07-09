@@ -1,61 +1,201 @@
-<h1 align="center">Hi 👋, I'm Pratiksha Rawat</h1>
-<h3 align="center">Full Stack Developer | React | Next.js | MongoDB | Tailwind CSS</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pratiksha%20Rawat&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+💻;Next.js+Enthusiast+⚡;AI+Integration+Explorer+🤖;Open+Source+Contributor+🌟;Building+Tomorrow's+Solutions+🚀&center=true&width=600&height=70&font=Fira%20Code&color=58a6ff&vCenter=true&size=25&duration=4000&pause=1000" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Next.js+Lover;Open+Source+Contributor;Building+AI+Projects&center=true&width=500&height=45" />
+  <img src="https://komarev.com/ghpvc/?username=pratiksha-rawat&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/pratiksha-rawat?label=Followers&style=flat-square&color=58a6ff" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58a6ff?style=flat-square" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Recent Computer Science Graduate from **RCET Bhilai**
-- 🛠 Currently building: **AI-powered education tools & blogging platforms**
-- 💡 Exploring: **AI Integration** | **Convex DB** | **Open Source Contributions**
-- 📫 Connect with me: **[LinkedIn](https://www.linkedin.com/in/pratiksha-rawat-363109253/)**  
-- 🌐 Portfolio: [https://my-portfolio-theta-rust-15.vercel.app/)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```javascript
+const pratiksha = {
+    pronouns: "She/Her",
+    location: "India 🇮🇳",
+    education: "B.Tech CSE @ RCET Bhilai",
+    currentFocus: "AI-powered web applications",
+    askMeAbout: ["React", "Next.js", "MongoDB", "AI Integration"],
+    technologies: {
+        frontend: ["React", "Next.js", "JavaScript", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express.js", "MongoDB", "Convex DB"],
+        styling: ["Tailwind CSS", "Bootstrap", "ShadCN UI"],
+        tools: ["Git", "GitHub", "VS Code", "Postman"],
+        currentlyExploring: ["AI APIs", "OpenAI", "Convex DB"]
+    },
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
 ---
 
-### 🚀 Tech Stack
+## 🛠️ Tech Arsenal
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+<div align="center">
+
+### Frontend Technologies
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Convex DB](https://img.shields.io/badge/Convex-4B32C3?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-4B32C3?style=for-the-badge&logoColor=white)
+
+### Styling & UI
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-### 🏆 Featured Projects
+## 🌟 Featured Projects
 
-#### 📚 [VidyaVani](https://vidya-vani.vercel.app)
-> AI-Powered Educational Assistant  
-> Intelligent tutoring, adaptive assessments, and real-time progress tracking.  
-> Stack: `Next.js` | `OpenAI` | `Tailwind CSS` | `Convex DB`
+<div align="center">
+  
+### 🎓 [VidyaVani - AI Educational Assistant](https://vidya-vani.vercel.app)
+  
+[![VidyaVani](https://img.shields.io/badge/🚀%20Live%20Demo-VidyaVani-58a6ff?style=for-the-badge)](https://vidya-vani.vercel.app)
+[![GitHub](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pratiksha-rawat/vidya-vani)
 
-#### ✍️ [Blogger](https://blogger-ivory-ten.vercel.app)
-> Content Management Blogging Platform  
-> Admin panel, real-time analytics, user auth & Markdown editing.  
-> Stack: `React` | `MongoDB` | `ShadCN UI` | `Express.js`
+</div>
 
----
-### 🏆 Badge for PR
-
-![PR Badge](https://img.shields.io/badge/PR-Contributor-success?style=flat-square&logo=github)
-
-Contributed to a project by submitting and merging PRs to repository. Actively participating in collaborative development.
-
-
-
-### 💬 Let's Collaborate
-
-- 🧠 Looking to **contribute to open source**
-- 🤝 Open to **collaborations** on AI and web-based solutions
-- 💬 Drop me a DM on [LinkedIn](https://www.linkedin.com/in/pratiksha-rawat-363109253/)
+> **🤖 Revolutionary AI-Powered Learning Platform**
+> 
+> An intelligent tutoring system that adapts to individual learning styles with real-time progress tracking and personalized assessments.
+> 
+> **✨ Key Features:**
+> - 🧠 AI-driven personalized learning paths
+> - 📊 Real-time progress analytics
+> - 🎯 Adaptive assessment system
+> - 💬 Interactive AI tutor
+> 
+> **🛠️ Tech Stack:** `Next.js` • `OpenAI API` • `Tailwind CSS` • `Convex DB` • `TypeScript`
 
 ---
 
-*Built with ❤️ by Pratiksha Rawat*
+<div align="center">
+  
+### ✍️ [Blogger - Content Management Platform](https://blogger-ivory-ten.vercel.app)
+  
+[![Blogger](https://img.shields.io/badge/🚀%20Live%20Demo-Blogger-58a6ff?style=for-the-badge)](https://blogger-ivory-ten.vercel.app)
+[![GitHub](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pratiksha-rawat/blogger)
+
+</div>
+
+> **📝 Modern Blogging Platform with Admin Control**
+> 
+> A comprehensive content management system with rich text editing, user authentication, and real-time analytics.
+> 
+> **✨ Key Features:**
+> - 👨‍💼 Complete admin dashboard
+> - 📝 Rich Markdown editor
+> - 🔐 Secure user authentication
+> - 📈 Real-time analytics
+> - 📱 Responsive design
+> 
+> **🛠️ Tech Stack:** `React` • `MongoDB` • `Express.js` • `ShadCN UI` • `JWT Authentication`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratiksha-rawat&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksha-rawat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratiksha-rawat&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratiksha-rawat&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</div>
+
+---
+
+## 🏆 Achievements & Contributions
+
+<div align="center">
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=pratiksha-rawat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+### 🎯 Contribution Highlights
+[![PR Badge](https://img.shields.io/badge/✅%20Pull%20Requests-Merged-success?style=for-the-badge&logo=github)](https://github.com/pratiksha-rawat)
+[![Open Source](https://img.shields.io/badge/🌟%20Open%20Source-Contributor-ff69b4?style=for-the-badge)](https://github.com/pratiksha-rawat)
+[![Community](https://img.shields.io/badge/👥%20Community-Active-orange?style=for-the-badge)](https://github.com/pratiksha-rawat)
+
+**🚀 Actively contributing to open source projects and building innovative solutions**
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-rawat-363109253/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-theta-rust-15.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratiksharawat@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratiksha-rawat)
+
+</div>
+
+### 🎯 I'm Looking For:
+- 🤝 **Open Source Collaborations** - Contributing to meaningful projects
+- 🚀 **AI/ML Projects** - Exploring cutting-edge technologies
+- 💼 **Full Stack Opportunities** - Building scalable web applications
+- 🌱 **Learning Partners** - Growing together in tech
+
+### 💬 Let's Talk About:
+- 🔥 **Next.js & React** ecosystem
+- 🤖 **AI Integration** in web applications
+- 🎨 **Modern UI/UX** design patterns
+- 🌐 **Full Stack Architecture** best practices
+
+---
+
+<div align="center">
+  
+### 🎨 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
+
+---
+
+<div align="center">
+  
+**✨ Built with ❤️ and lots of ☕ by Pratiksha Rawat ✨**
+
+*Last updated: July 2025*
+
+</div>
