@@ -127,13 +127,14 @@ const pratiksha = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rpratiksha031&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&line_height=27" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpratiksha031&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=repo1,repo2" />
 
-### ⚡ Coding Streak & Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rpratiksha031&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+### 📊 GitHub Performance & Activity
+<img src="https://github-readme-stats.vercel.app/api?username=rpratiksha031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&custom_title=GitHub%20Activity%20Summary" />
 
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rpratiksha031&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=false" />
+### 📈 Commit Activity
+<img src="https://github-readme-stats.vercel.app/api?username=rpratiksha031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&include_all_commits=true&count_private=true" />
 
-
+### 🏆 GitHub Achievements
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rpratiksha031&theme=tokyonight" />
 
 ### 💻 Weekly Development Breakdown
 <!--START_SECTION:waka-->
