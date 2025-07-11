@@ -145,10 +145,20 @@ const pratiksha = {
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rpratiksha031&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=rpratiksha031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4) 
+### 🎯 Alternative Trophy Display
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=rpratiksha031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies Alternative" />
+</p>
 
+### 🏅 Achievement Badges
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rpratiksha031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&custom_title=GitHub%20Profile%20Summary" alt="GitHub Profile Summary" />
+</p>
 
 ### 🎯 Contribution Highlights
 [![PR Badge](https://img.shields.io/badge/✅%20Pull%20Requests-Merged-success?style=for-the-badge&logo=github)](https://github.com/rpratiksha031)
