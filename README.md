@@ -145,7 +145,10 @@ const pratiksha = {
 
 <div align="center">
 
+## 🏆 GitHub Trophies
+
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=rpratiksha031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
 
 ### 🎯 Contribution Highlights
 [![PR Badge](https://img.shields.io/badge/✅%20Pull%20Requests-Merged-success?style=for-the-badge&logo=github)](https://github.com/rpratiksha031)
