@@ -147,7 +147,7 @@ const pratiksha = {
 
 ## 🏆 GitHub Trophies
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=rpratiksha031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=rpratiksha031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4) 
 
 
 ### 🎯 Contribution Highlights
