@@ -133,8 +133,7 @@ const pratiksha = {
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rpratiksha031&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=false" />
 
-### 📊 GitHub Activity Summary
-<img src="https://github-readme-stats.vercel.app/api?username=rpratiksha031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&custom_title=Activity%20Overview" />
+
 
 ### 💻 Weekly Development Breakdown
 <!--START_SECTION:waka-->
