@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```javascript
+javascript
 const pratiksha = {
     pronouns: "She/Her",
     location: "India 🇮🇳",
@@ -34,11 +34,11 @@ const pratiksha = {
     },
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
-```
+
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠 Tech Arsenal
 
 <div align="center">
 
@@ -81,41 +81,41 @@ const pratiksha = {
 
 </div>
 
-> **🤖 Revolutionary AI-Powered Learning Platform**
+> *🤖 Revolutionary AI-Powered Learning Platform*
 > 
 > An intelligent tutoring system that adapts to individual learning styles with real-time progress tracking and personalized assessments.
 > 
-> **✨ Key Features:**
+> *✨ Key Features:*
 > - 🧠 AI-driven personalized learning paths
 > - 📊 Real-time progress analytics
 > - 🎯 Adaptive assessment system
 > - 💬 Interactive AI tutor
 > 
-> **🛠️ Tech Stack:** `Next.js` • `OpenAI API` • `Tailwind CSS` • `Convex DB` • `Javascript`
+> *🛠 Tech Stack:* Next.js • OpenAI API • Tailwind CSS • Convex DB • Javascript
 
 ---
 
 <div align="center">
   
-### ✍️ [Blogger - Content Management Platform](https://blogger-ivory-ten.vercel.app)
+### ✍ [Blogger - Content Management Platform](https://blogger-ivory-ten.vercel.app)
   
 [![Blogger](https://img.shields.io/badge/🚀%20Live%20Demo-Blogger-58a6ff?style=for-the-badge)](https://blogger-ivory-ten.vercel.app)
 [![GitHub](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rpratiksha031/blogger)
 
 </div>
 
-> **📝 Modern Blogging Platform with Admin Control**
+> *📝 Modern Blogging Platform with Admin Control*
 > 
 > A comprehensive content management system with rich text editing, user authentication, and real-time analytics.
 > 
-> **✨ Key Features:**
+> *✨ Key Features:*
 > - 👨‍💼 Complete admin dashboard
 > - 📝 Rich Markdown editor
 > - 🔐 Secure user authentication
 > - 📈 Real-time analytics
 > - 📱 Responsive design
 > 
-> **🛠️ Tech Stack:** `React` • `MongoDB` • `Express.js` • `ShadCN UI` • `Next.js`
+> *🛠 Tech Stack:* React • MongoDB • Express.js • ShadCN UI • Next.js
 
 ---
 
@@ -127,11 +127,13 @@ const pratiksha = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rpratiksha031&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&line_height=27" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpratiksha031&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=repo1,repo2" />
 
-### 📊 GitHub Performance & Activity
-<img src="https://github-readme-stats.vercel.app/api?username=rpratiksha031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff" />
+### ⚡ Coding Streak & Activity
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rpratiksha031&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
-### 🏆 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rpratiksha031&theme=tokyonight" />
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rpratiksha031&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=false" />
+
+
 
 ### 💻 Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -154,7 +156,7 @@ const pratiksha = {
 [![Open Source](https://img.shields.io/badge/🌟%20Open%20Source-Contributor-ff69b4?style=for-the-badge)](https://github.com/rpratiksha031)
 [![Community](https://img.shields.io/badge/👥%20Community-Active-orange?style=for-the-badge)](https://github.com/rpratiksha031)
 
-**🚀 Actively contributing to open source projects and building innovative solutions**
+*🚀 Actively contributing to open source projects and building innovative solutions*
 
 </div>
 
@@ -172,16 +174,16 @@ const pratiksha = {
 </div>
 
 ### 🎯 I'm Looking For:
-- 🤝 **Open Source Collaborations** - Contributing to meaningful projects
-- 🚀 **AI/ML Projects** - Exploring cutting-edge technologies
-- 💼 **Full Stack Opportunities** - Building scalable web applications
-- 🌱 **Learning Partners** - Growing together in tech
+- 🤝 *Open Source Collaborations* - Contributing to meaningful projects
+- 🚀 *AI/ML Projects* - Exploring cutting-edge technologies
+- 💼 *Full Stack Opportunities* - Building scalable web applications
+- 🌱 *Learning Partners* - Growing together in tech
 
 ### 💬 Let's Talk About:
-- 🔥 **Next.js & React** ecosystem
-- 🤖 **AI Integration** in web applications
-- 🎨 **Modern UI/UX** design patterns
-- 🌐 **Full Stack Architecture** best practices
+- 🔥 *Next.js & React* ecosystem
+- 🤖 *AI Integration* in web applications
+- 🎨 *Modern UI/UX* design patterns
+- 🌐 *Full Stack Architecture* best practices
 
 ---
 
@@ -201,8 +203,8 @@ const pratiksha = {
 
 <div align="center">
   
-**✨ Built with ❤️ and lots of ☕ by Pratiksha Rawat ✨**
+*✨ Built with ❤ and lots of ☕ by Pratiksha Rawat ✨*
 
-*Last updated: July 2025*
+Last updated: July 2025
 
 </div>
