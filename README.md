@@ -128,10 +128,13 @@ const pratiksha = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpratiksha031&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=repo1,repo2" />
 
 ### ⚡ Coding Streak & Activity
-<img src="https://streak-stats.demolab.com/?user=rpratiksha031&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rpratiksha031&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rpratiksha031&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rpratiksha031&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=false" />
+
+### 📊 GitHub Activity Summary
+<img src="https://github-readme-stats.vercel.app/api?username=rpratiksha031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&custom_title=Activity%20Overview" />
 
 ### 💻 Weekly Development Breakdown
 <!--START_SECTION:waka-->
