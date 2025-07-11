@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-javascript
+```javascript
 const pratiksha = {
     pronouns: "She/Her",
     location: "India 🇮🇳",
@@ -34,11 +34,11 @@ const pratiksha = {
     },
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
-
+```
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -81,41 +81,41 @@ const pratiksha = {
 
 </div>
 
-> *🤖 Revolutionary AI-Powered Learning Platform*
+> **🤖 Revolutionary AI-Powered Learning Platform**
 > 
 > An intelligent tutoring system that adapts to individual learning styles with real-time progress tracking and personalized assessments.
 > 
-> *✨ Key Features:*
+> **✨ Key Features:**
 > - 🧠 AI-driven personalized learning paths
 > - 📊 Real-time progress analytics
 > - 🎯 Adaptive assessment system
 > - 💬 Interactive AI tutor
 > 
-> *🛠 Tech Stack:* Next.js • OpenAI API • Tailwind CSS • Convex DB • Javascript
+> **🛠️ Tech Stack:** `Next.js` • `OpenAI API` • `Tailwind CSS` • `Convex DB` • `Javascript`
 
 ---
 
 <div align="center">
   
-### ✍ [Blogger - Content Management Platform](https://blogger-ivory-ten.vercel.app)
+### ✍️ [Blogger - Content Management Platform](https://blogger-ivory-ten.vercel.app)
   
 [![Blogger](https://img.shields.io/badge/🚀%20Live%20Demo-Blogger-58a6ff?style=for-the-badge)](https://blogger-ivory-ten.vercel.app)
 [![GitHub](https://img.shields.io/badge/📁%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rpratiksha031/blogger)
 
 </div>
 
-> *📝 Modern Blogging Platform with Admin Control*
+> **📝 Modern Blogging Platform with Admin Control**
 > 
 > A comprehensive content management system with rich text editing, user authentication, and real-time analytics.
 > 
-> *✨ Key Features:*
+> **✨ Key Features:**
 > - 👨‍💼 Complete admin dashboard
 > - 📝 Rich Markdown editor
 > - 🔐 Secure user authentication
 > - 📈 Real-time analytics
 > - 📱 Responsive design
 > 
-> *🛠 Tech Stack:* React • MongoDB • Express.js • ShadCN UI • Next.js
+> **🛠️ Tech Stack:** `React` • `MongoDB` • `Express.js` • `ShadCN UI` • `Next.js`
 
 ---
 
@@ -133,8 +133,6 @@ const pratiksha = {
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rpratiksha031&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=false" />
 
-
-
 ### 💻 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -147,16 +145,17 @@ const pratiksha = {
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rpratiksha031&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
+## 🏆 GitHub Trophies
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=rpratiksha031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4) 
+
 
 ### 🎯 Contribution Highlights
+[![PR Badge](https://img.shields.io/badge/✅%20Pull%20Requests-Merged-success?style=for-the-badge&logo=github)](https://github.com/rpratiksha031)
 [![Open Source](https://img.shields.io/badge/🌟%20Open%20Source-Contributor-ff69b4?style=for-the-badge)](https://github.com/rpratiksha031)
 [![Community](https://img.shields.io/badge/👥%20Community-Active-orange?style=for-the-badge)](https://github.com/rpratiksha031)
 
-*🚀 Actively contributing to open source projects and building innovative solutions*
+**🚀 Actively contributing to open source projects and building innovative solutions**
 
 </div>
 
@@ -174,16 +173,16 @@ const pratiksha = {
 </div>
 
 ### 🎯 I'm Looking For:
-- 🤝 *Open Source Collaborations* - Contributing to meaningful projects
-- 🚀 *AI/ML Projects* - Exploring cutting-edge technologies
-- 💼 *Full Stack Opportunities* - Building scalable web applications
-- 🌱 *Learning Partners* - Growing together in tech
+- 🤝 **Open Source Collaborations** - Contributing to meaningful projects
+- 🚀 **AI/ML Projects** - Exploring cutting-edge technologies
+- 💼 **Full Stack Opportunities** - Building scalable web applications
+- 🌱 **Learning Partners** - Growing together in tech
 
 ### 💬 Let's Talk About:
-- 🔥 *Next.js & React* ecosystem
-- 🤖 *AI Integration* in web applications
-- 🎨 *Modern UI/UX* design patterns
-- 🌐 *Full Stack Architecture* best practices
+- 🔥 **Next.js & React** ecosystem
+- 🤖 **AI Integration** in web applications
+- 🎨 **Modern UI/UX** design patterns
+- 🌐 **Full Stack Architecture** best practices
 
 ---
 
@@ -203,8 +202,6 @@ const pratiksha = {
 
 <div align="center">
   
-*✨ Built with ❤ and lots of ☕ by Pratiksha Rawat ✨*
+**✨ Built with ❤️ and lots of ☕ by Pratiksha Rawat ✨**
 
-Last updated: July 2025
-
-</div>
+*Last updated: July 2025*
