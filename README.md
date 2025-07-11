@@ -128,10 +128,10 @@ const pratiksha = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpratiksha031&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=repo1,repo2" />
 
 ### ⚡ Coding Streak & Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rpratiksha031&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://streak-stats.demolab.com/?user=rpratiksha031&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rpratiksha031&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=false" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rpratiksha031&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=false" />
 
 ### 💻 Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -150,18 +150,7 @@ const pratiksha = {
   <img src="https://github-profile-trophy.vercel.app/?username=rpratiksha031&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-### 🎯 Alternative Trophy Display
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=rpratiksha031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies Alternative" />
-</p>
-
-### 🏅 Achievement Badges
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rpratiksha031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&custom_title=GitHub%20Profile%20Summary" alt="GitHub Profile Summary" />
-</p>
-
 ### 🎯 Contribution Highlights
-[![PR Badge](https://img.shields.io/badge/✅%20Pull%20Requests-Merged-success?style=for-the-badge&logo=github)](https://github.com/rpratiksha031)
 [![Open Source](https://img.shields.io/badge/🌟%20Open%20Source-Contributor-ff69b4?style=for-the-badge)](https://github.com/rpratiksha031)
 [![Community](https://img.shields.io/badge/👥%20Community-Active-orange?style=for-the-badge)](https://github.com/rpratiksha031)
 
