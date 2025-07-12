@@ -202,6 +202,6 @@ const pratiksha = {
 
 <div align="center">
   
-**✨ Built with ❤️ and lots of ☕ by Pratiksha Rawat ✨**
+**✨ Built with ❤️ and lots of ☕ by Pratiksha Rawat .✨**
 
 *Last updated: July 2025*
