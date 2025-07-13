@@ -38,6 +38,34 @@ const pratiksha = {
 
 ---
 
+🐦 My Published PyPI Package
+
+📦 birddata
+
+A pip-installable Python package that provides a custom bird classification dataset (like load_iris).
+
+from birddata import load_bird
+import pandas as pd
+
+df = load_bird()
+print(df.head())
+
+🛠️ Tech Used: Python, Pandas, setuptools, GitHub Actions, PyPI
+
+🎉 What's Coming Next?
+
+🚧 I'm working on exciting upgrades to birddata, including:
+
+🧠 Sample notebooks with machine learning models using the dataset
+
+📊 Data visualization templates
+
+🐍 A load_bird_extended() version with more species and metadata
+
+📌 Stay tuned — more tools and datasets are on the way to empower learners and developers in the AI space!
+
+🌟 Feel free to open an issue or contribute ideas!
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
