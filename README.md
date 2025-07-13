@@ -60,7 +60,9 @@ print(df.head())
 
 🛠️ Tech Used: Python, Pandas, setuptools, GitHub Actions, PyPI
 
-### 🎉 What's Coming Next?
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=📦+what's+new!;🌟+More+AI+Tools+Coming+Soon!" />
+</p>
 
 🚧 I'm working on exciting upgrades to birddata, including:
 
