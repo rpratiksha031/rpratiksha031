@@ -48,7 +48,7 @@ const pratiksha = {
 <img src="your-animation.gif" alt="Animated Line" width="600" />
 
 
-📦 birddata
+### 📦 birddata
 
 A pip-installable Python package that provides a custom bird classification dataset (like load_iris).
 
