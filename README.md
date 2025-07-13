@@ -59,9 +59,8 @@ df = load_bird()
 print(df.head())
 
 🛠️ Tech Used: Python, Pandas, setuptools, GitHub Actions, PyPI
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=📦+what's+new!;🌟+More+AI+Tools+Coming+Soon!" />
+<p align="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=📦+what's+Coming+next+?+🌟" />
 </p>
 
 🚧 I'm working on exciting upgrades to birddata, including:
