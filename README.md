@@ -38,7 +38,7 @@ const pratiksha = {
 
 ---
 
-## 🐦 My Published PyPI Package
+### 🐦 My Published PyPI Package
 
 📦 birddata
 
@@ -52,7 +52,7 @@ print(df.head())
 
 🛠️ Tech Used: Python, Pandas, setuptools, GitHub Actions, PyPI
 
-🎉 What's Coming Next?
+### 🎉 What's Coming Next?
 
 🚧 I'm working on exciting upgrades to birddata, including:
 
