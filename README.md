@@ -40,8 +40,9 @@ const pratiksha = {
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+My+Published+PyPi+Package+is+LIVE!;🐦+Try+birddata+Now!;🔥+More+AI+Tools+Coming+Soon!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🚀+My+PyPI+Package+is+LIVE!;🐦+Try+birddata+Now!;🌟+More+AI+Tools+Coming+Soon!" />
 </p>
+
 
 <img src="your-animation.gif" alt="Animated Line" width="600" />
 
