@@ -39,7 +39,7 @@ const pratiksha = {
 ---
 
 <h3 align="center" style="animation: pulse 2s infinite; color: #FFA500;">
- ### 🐦 My Published PyPI Package
+ 🐦 My Published PyPI Package
 </h3>
 <img src="your-animation.gif" alt="Animated Line" width="600" />
 
