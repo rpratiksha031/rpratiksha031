@@ -38,9 +38,11 @@ const pratiksha = {
 
 ---
 
-<h3 align="center" style="animation: pulse 2s infinite; color: #FFA500;">
- 🐦 My Published PyPI Package
-</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+My+Published+PyPi+Package+is+LIVE!;🐦+Try+birddata+Now!;🔥+More+AI+Tools+Coming+Soon!" />
+</p>
+
 <img src="your-animation.gif" alt="Animated Line" width="600" />
 
 
